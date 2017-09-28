@@ -1,2 +1,4 @@
 # FudanChianti
-Some other comments
+=======
+Initital ChiantiPy for FUDAN
+Sven Huldt
